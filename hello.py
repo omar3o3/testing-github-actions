@@ -2,15 +2,16 @@
 AGE = 10
 NAME = "Omar"
 
-'''does stuff'''
+
 def age_in_months(inp):
+    '''does stuff'''
     output = inp * 12
     print(output)
 
-'''does more stuff'''
 def print_greeting():
+    '''does more stuff'''
     print("hello world!")
 
-'''does even more stuff'''
 def print_goodbyes():
+    '''does even more stuff'''
     print("goodbye world!")
