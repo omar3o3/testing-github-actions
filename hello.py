@@ -3,8 +3,8 @@ AGE = 10
 NAME = "Omar"
 
 '''does stuff'''
-def age_in_months(input):
-    output = input * 12
+def age_in_months(inp):
+    output = inp * 12
     print(output)
 
 '''does more stuff'''
