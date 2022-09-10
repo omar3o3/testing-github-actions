@@ -1,5 +1,5 @@
-AGE = 10
 '''holds the age'''
+Age = 10
 
 # def age_in_months(input):
 #     output = input * 12
