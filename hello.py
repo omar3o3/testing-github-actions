@@ -1,4 +1,4 @@
-age = 10
+AGE = 10
 '''holds the age'''
 
 # def age_in_months(input):
