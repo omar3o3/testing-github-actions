@@ -1,6 +1,6 @@
 '''holds the age and name'''
 # age = 10
-Name = "Omar"
+NAME = "Omar"
 
 # def age_in_months(input):
 #     output = input * 12
